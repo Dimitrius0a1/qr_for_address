@@ -18,5 +18,10 @@ go run crypto_qr_generator.go
 ```
 
 QR-код будет сохранен в файл `wallet_qr.png`.
+<<<<<<< HEAD
 QR-код будет сохранен в файл `wallet_qr.png`.
 
+=======
+
+crypto_imba2024
+>>>>>>> 33d1195c6148b27d0c60c9c696937f931c350893
