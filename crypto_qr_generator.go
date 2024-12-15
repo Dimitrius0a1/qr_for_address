@@ -31,3 +31,9 @@ func main() {
 fmt.Printf("QR-код успешно создан и сохранен в файл: %s
 ", fileName)
 }
+
+}
+
+fmt.Printf("QR-код успешно создан и сохранен в файл: %s
+", fileName)
+}
